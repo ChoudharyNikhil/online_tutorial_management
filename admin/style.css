@@ -1,0 +1,185 @@
+body
+{
+  background: url('img/bg.gif') repeat-x scroll left top #D4D3D3;;
+}
+
+#body
+{
+  width:1024px;
+  height:800px;
+  margin:auto;
+  }
+#body #mainheader 
+{
+   width:1024px;
+   height:70px;
+ 
+}
+#body #mainheader #header
+{
+width:512px;
+height:70px;
+float:left;
+color:#FFF;
+font-size:36px;
+}
+#body #mainheader #header1
+{
+width:512px;
+height:70px;
+float:left;
+color:#FFFFFF;
+
+}
+#body #main
+{
+    width:1024px;
+	height:auto;
+	background:linear-gradient(#8AC0E9,white);
+	border:#000099;
+	border-radius:10px;
+	padding:10px;
+	
+	
+	 
+}
+  
+#body #main #menu
+{
+ width:1000px;
+ height:120px;
+ border-style:none;
+ border-color:#000066;
+ border-radius:10px;
+ margin:auto;
+ background:linear-gradient(#FFF,#639ECB);
+ 
+ 
+}
+.dashboard
+{
+	width:190px;
+  	height:100px;
+   	margin-top:10px;
+   	margin-bottom:10px;
+   	float:left;
+    border-right:1px solid #4C88B6;
+    font-size:18px;
+	color:#FFF;
+	padding-left:6px;
+    
+}
+
+.dashboard:last-child
+{
+	border-style:none;
+}
+
+.dashboard img
+{
+	width:80px;
+	height:60px;
+}
+
+
+
+#body #menupart
+{
+   width:1000px;
+   height:45px;
+   
+   margin-top:10px;
+   margin-left:100px;
+}
+.menupart
+{ background-color: #639ECB;
+    border-radius: 10px 10px 0 0;
+    float: left;
+    height: 35px;
+    margin-left: 3px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    width: auto;
+}
+
+.menupart a
+{
+	text-decoration:none;
+	font-size:1em;
+	color:#fff;
+	
+
+}
+
+.dashboard:hover
+{
+	 background:#4C88B6;
+}
+
+.menupart:hover
+{
+	background:#FFF;
+	
+}
+
+#body #content
+{
+   width:980px;
+  
+   background-color:white;
+   padding-top:40px;
+   margin:auto;
+   border-radius:25px 25px;
+   
+  
+}
+#body #contentf
+{
+   width:980px;
+  
+   background-color:white;
+   padding-top:10px;
+   padding-left:20px;
+   margin:auto;
+   border-radius:25px 25px;
+   
+  
+}
+
+#body #main #footer
+{
+    background-color: #8AC0E9;
+    border-radius: 0 0 25px 25px;
+    height: 35px;
+    margin: 10px auto auto;
+    width: 980px;
+}
+a, a:active, a:link, a:visited { text-decoration:none; color: #069; }
+
+#onlycontent
+{
+	width:500px;
+	height:200px;
+	margin-left:0px;
+	
+}
+
+#onlycontent11
+{
+	width:300px;
+	height:200px;
+	margin-top:30px;
+	margin-left:-140px;
+	
+}
+#feedback
+{
+  
+  width:900px;
+  height:500px;
+  margin-top:0px;
+  
+  overflow:scroll;
+  	
+}
